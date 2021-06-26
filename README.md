@@ -6,5 +6,5 @@ python setup.py develop
 ```
 This will symlink all the python files from the current source tree into python.  
 
-To run test.
+Run the entire test suite with.
 ```python setup.py test```
