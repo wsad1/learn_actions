@@ -1,6 +1,6 @@
 # learn_actions
-A small repository that uses github actions for CI.
-To install in develop mode run.
+A small repository that uses github actions for CI.  
+To install in develop mode create a new python environment and run.
 ```
 python setup.py develop
 ```
