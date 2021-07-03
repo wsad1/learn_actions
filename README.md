@@ -13,3 +13,4 @@ Run the entire test suite with.
 
 ## Github actions
 `.github/workflow` contains two yamls. `testing.yml` runs this packages test-suite. `linting.yml` runs flake8.
+Read [this](https://docs.github.com/en/actions/guides/building-and-testing-python) for a detailed explanation of setting up CI workflows for a python project.
