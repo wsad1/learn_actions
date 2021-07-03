@@ -1,4 +1,5 @@
-![testing](https://github.com/wsad1/learn_actions/actions/testing.yml/badge.svg)
+![testing](https://github.com/wsad1/learn_actions/actions/workflows/testing.yml/badge.svg)
+![linting](https://github.com/wsad1/learn_actions/actions/workflows/linting.yml/badge.svg)
 # learn_actions
 A small repository that uses github actions for CI.
 
