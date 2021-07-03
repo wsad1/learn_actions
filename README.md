@@ -12,4 +12,4 @@ Run the entire test suite with.
 ```python setup.py test```
 
 ## Github actions
-`.github/workflow` contains all two yamls. `testing.yml` runs this packages test-suite. `linting.yml` runs flake8.
+`.github/workflow` contains two yamls. `testing.yml` runs this packages test-suite. `linting.yml` runs flake8.
